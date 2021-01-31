@@ -32,7 +32,7 @@
 
   <!-- Hero Section  -->
   <section id="hero">
-    <div class="hero container">
+    <div class="hero container">7
       <div>
         <h1>Hello, <span></span></h1>
         <h1>My Name is <span></span></h1>
@@ -150,7 +150,7 @@
         <h1 class="section-title">About <span>me</span></h1>
         <h2>Front End Developer</h2>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores, velit alias eius non illum beatae atque repellat ratione qui veritatis repudiandae adipisci maiores. At inventore necessitatibus deserunt exercitationem cumque earum omnis ipsum rem accusantium quis, quas quia, accusamus provident suscipit magni! Expedita sint ad dolore, commodi labore nihil velit earum ducimus nulla quae nostrum fugit aut, deserunt reprehenderit libero enim!</p>
-        <a href="#" class="cta">Download Resume</a>
+        <a href="https://www.linkedin.com/ambry/?x-li-ambry-ep=AQHMsezlDLBdFwAAAXdXaH-0FW9L4h3n-PUz1skg1PmBUYeevyvMAy4_hyHs5G6cWHaLpm8quGCgxmJl_pYaK5md8e_RYwPwIqFwhGXuXA695kmdyjT92CYM6sYTab3IOHaIo932WOeT4kWSblKS_ietprfRHC8CQbodi5PvaermwxpV8ELc-SijG5CLQL7wf1xE6o5nrMDD5nuT9WxFOg7AHIeb6nB6-9TNCaG1vYxIPqChefS9TfJpgSkUJhZz01SA7SPBvulzW8bxVWqjWmlsz73eLI_DaWcY4N3qMHaMG2mg8_YeKjjFQlxUPeglmXmWLagfEWL06sdR0zcQDFtqe9NTbnsjTOOfXJAwZ5i2Qfj__WU_I4BnQ01VExEDKnaaUws8cLjVj2LHhgOue2tWVK1lVGkHWAOjHURF4SSc8HOuKLOAuRJ5awh0wRjtHwaMlF92fe0fSPO3h9ifbq4j8wfBBSbRqQiGnyYb8e7vQvParoOIw7o6USBofxjj5DA_YvMAKJTFz0EqIPxATA&x-ambry-um-filename=Profile.pdf" class="cta">Download Resume</a>
       </div>
     </div>
   </section>
