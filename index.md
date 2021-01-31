@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
-  <title>My Site</title>
+  <title>My Website</title>
 </head>
 <body>
   <!-- Header -->
@@ -52,7 +52,7 @@
       </div>
       <div class="service-bottom">
         <div class="service-item">
-          <div class="icon"><img src="https://github.com/adiboy17/adiboy17.github.io/blob/master/img/img/alogo.png"/></div>
+          <div class="icon"><img src="C:\Users\Pinki\Desktop\one-page-website-html-css-project-for-practice-master\one-page-website-html-css-project-for-practice-master\img/alogo.png"/></div>
           <h2>Adobe Aftereffects</h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis debitis rerum, magni voluptatem sed architecto placeat beatae tenetur officia quod</p>
         </div>
@@ -143,14 +143,14 @@
     <div class="about container">
       <div class="col-left">
         <div class="about-img">
-          <img src="https://raw.githubusercontent.com/adiboy17/adiboy17.github.io/master/img/img/img-2.jpg" alt="img">
+          <img src="./img/img-2.jpg" alt="img">
         </div>
       </div>
       <div class="col-right">
         <h1 class="section-title">About <span>me</span></h1>
         <h2>Front End Developer</h2>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores, velit alias eius non illum beatae atque repellat ratione qui veritatis repudiandae adipisci maiores. At inventore necessitatibus deserunt exercitationem cumque earum omnis ipsum rem accusantium quis, quas quia, accusamus provident suscipit magni! Expedita sint ad dolore, commodi labore nihil velit earum ducimus nulla quae nostrum fugit aut, deserunt reprehenderit libero enim!</p>
-        <a href="https://www.linkedin.com/ambry/?x-li-ambry-ep=AQEhNNS3HXHdzwAAAXdXDiCIQyCr4RJc5Jiu8sOiXO4CKXQ0eXgImyKp634LdfpyL_4jaGR6NrpYFXcK7iC7z_Kd0CkRmXMkZX2beoykqHdC900NfiB2ul0izz6rmw_AlKkYhOIHld0dVJ0_VgN2sQPOHCZ-1xh5k5XG2j67hGG4shecg4hAxfwmlqZX9rrN30iT8Gg96ahkEfFRTQHvj_E2iLthY4Mcmos6xxxOgBDW2yBiBbc2RkAPRNBAzjzUwnx1eZ8DK6HAaxbPRdXpDwh4qgPBx06k2tQaTT09_V37O5jMM4h1wgTAcyK1gJLcaw3x6v6gwjTwWjA_8vuf7iqxq6p3VWX2p5PcJP5DX3hS1Eh1KRXtIaJIsPULihBwnXfc5R-zbDoH6w4ex8SnfBIyeZ1il2cKX_FvKfm4sd0nvlX03T57_7YcPsrS2nsHBJ_hwDe2wTShVSXkPyuOrRfhfvQuHUL89JadajjJ11zGoXWkF1osMLiAboMuBKaepIFI5gJSw_SFph9LjLn9uA&x-ambry-um-filename=Profile.pdf" class="cta">Download Resume</a>
+        <a href="#" class="cta">Download Resume</a>
       </div>
     </div>
   </section>
