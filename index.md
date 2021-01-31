@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
+  <title>My Site</title>
 </head>
 <body>
   <!-- Header -->
@@ -51,7 +52,7 @@
       </div>
       <div class="service-bottom">
         <div class="service-item">
-          <div class="icon"><img src="C:\Users\Pinki\Desktop\one-page-website-html-css-project-for-practice-master\one-page-website-html-css-project-for-practice-master\img/alogo.png"/></div>
+          <div class="icon"><img src="https://github.com/adiboy17/adiboy17.github.io/blob/master/img/img/alogo.png"/></div>
           <h2>Adobe Aftereffects</h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis debitis rerum, magni voluptatem sed architecto placeat beatae tenetur officia quod</p>
         </div>
