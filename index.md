@@ -150,7 +150,7 @@
         <h1 class="section-title">About <span>me</span></h1>
         <h2>Front End Developer</h2>
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores, velit alias eius non illum beatae atque repellat ratione qui veritatis repudiandae adipisci maiores. At inventore necessitatibus deserunt exercitationem cumque earum omnis ipsum rem accusantium quis, quas quia, accusamus provident suscipit magni! Expedita sint ad dolore, commodi labore nihil velit earum ducimus nulla quae nostrum fugit aut, deserunt reprehenderit libero enim!</p>
-        <a href="#" class="cta">Download Resume</a>
+        <a href="https://www.linkedin.com/ambry/?x-li-ambry-ep=AQEhNNS3HXHdzwAAAXdXDiCIQyCr4RJc5Jiu8sOiXO4CKXQ0eXgImyKp634LdfpyL_4jaGR6NrpYFXcK7iC7z_Kd0CkRmXMkZX2beoykqHdC900NfiB2ul0izz6rmw_AlKkYhOIHld0dVJ0_VgN2sQPOHCZ-1xh5k5XG2j67hGG4shecg4hAxfwmlqZX9rrN30iT8Gg96ahkEfFRTQHvj_E2iLthY4Mcmos6xxxOgBDW2yBiBbc2RkAPRNBAzjzUwnx1eZ8DK6HAaxbPRdXpDwh4qgPBx06k2tQaTT09_V37O5jMM4h1wgTAcyK1gJLcaw3x6v6gwjTwWjA_8vuf7iqxq6p3VWX2p5PcJP5DX3hS1Eh1KRXtIaJIsPULihBwnXfc5R-zbDoH6w4ex8SnfBIyeZ1il2cKX_FvKfm4sd0nvlX03T57_7YcPsrS2nsHBJ_hwDe2wTShVSXkPyuOrRfhfvQuHUL89JadajjJ11zGoXWkF1osMLiAboMuBKaepIFI5gJSw_SFph9LjLn9uA&x-ambry-um-filename=Profile.pdf" class="cta">Download Resume</a>
       </div>
     </div>
   </section>
